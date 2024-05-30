@@ -1,0 +1,1 @@
+# objects-array-function-assignments
